@@ -12,7 +12,7 @@ In this project, I'll query the Sakila DVD Rental database. The Sakila Database 
 
 The DVD rental database represents the business processes of a DVD rental store. The DVD rental database has many objects including:
 
-- 15 tables
+- 14 tables
 - 1 trigger
 - 7 views
 - 8 functions
